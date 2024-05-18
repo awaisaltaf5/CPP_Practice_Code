@@ -6,7 +6,7 @@ int main(){
 	string name;
 	
 	
-	cout<<"Enter your card number here:"<<endl;
+	cout<<"Enter your card number here"<<endl;
 	cin>>num;
 	cout<<"Enter your Name:"<<endl;
 	cin>>name;
